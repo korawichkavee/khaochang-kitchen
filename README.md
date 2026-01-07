@@ -1,1 +1,5 @@
 # khaochang-kitchen
+
+korawichkavee
+https://<username>.github.io/<repo>/
+https://korawichkavee.github.io/khaochang-kitchen/
